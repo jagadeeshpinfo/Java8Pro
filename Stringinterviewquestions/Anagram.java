@@ -1,4 +1,4 @@
-package Stringinterviewquestions;
+package com.jaga.Stringinterviewquestions;
 
 import java.util.Arrays;
 
